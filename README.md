@@ -163,3 +163,26 @@ By maintaining meal records and analyzing consumption patterns, the system can h
 5. Addition of visual charts and dashboards for waste analysis.
 6. Integration with real-time attendance systems.
 7. Expansion of the system to support multiple college messes.
+
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main_menu.png)
+
+### Student Attendance
+![Student Attendance](screenshots/student_attendance.png)
+
+### Student Attendance 1
+![Student Attendance 1](screenshots/student_attendance1.png)
+
+### Mess Manager
+![Mess Manager](screenshots/mess_manager.png)
+
+### Waste Analysis
+![Waste Analysis](screenshots/waste_analysis.png)
+
+### Preparation Recommendation
+![Preparation Recommendation](screenshots/preparation_recommendation.png)
+
+### User Exit
+![User Exit](screenshots/user_exit.png)
